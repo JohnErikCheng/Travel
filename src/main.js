@@ -9,6 +9,8 @@ import fastClick from 'fastclick'
 import './assets/style/reset.css'
 //1像素边框的解决方案
 import './assets/style/border.css'
+//iconfont全局引入,多处用到
+import './assets/style/iconfont.css'
 
 Vue.config.productionTip = false
 fastClick.attach(document.body)
